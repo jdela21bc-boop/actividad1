@@ -6,7 +6,7 @@ public class Main {
 
         // primer objeto
 
-        vehiculo producto1 = new vehiculo(
+        Producto producto1 = new Producto(
             "V001",
             "Yamaha FZ 2.0",
             15000000,
@@ -16,7 +16,7 @@ public class Main {
 
         //  segundo objeto
 
-        vehiculo producto2 = new vehiculo(
+        Producto producto2 = new Producto(
             "V002",
             "Yamaha MT-03",
             28000000,

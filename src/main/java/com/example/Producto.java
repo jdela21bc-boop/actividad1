@@ -1,6 +1,6 @@
 package com.example;
 
-public class vehiculo {
+public class Producto {
     // Atributos
 
     private String moto;
@@ -10,7 +10,7 @@ public class vehiculo {
 
     // Constructor
 
-    public vehiculo(String moto, String Yamaha, double precio, int stock) {
+    public Producto(String moto, String Yamaha, double precio, int stock) {
         this.moto= moto;
         this.Yamaha = Yamaha;
         this.precio = precio;
